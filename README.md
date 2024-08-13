@@ -68,3 +68,6 @@ This section has moved here: [https://vitejs.dev/guide/build.html](https://vitej
 ### Troubleshooting
 
 This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+your-timothykamrath9@gmail.com
+</sup>	None	This is a <sup>superscript</sup> text	This is a superscript text
+
